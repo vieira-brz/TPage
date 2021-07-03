@@ -1,0 +1,67 @@
+data = '[{ "0" : "1", "1" : "William Shakespeare","2" : "Book Of This Author","3" : "Any book written by this author" }, { "0" : "2", "1" : "Leo Tolstoy","2" : "Book Of This Author","3" : "Any book written by this author" }, { "0" : "3", "1" : "John Donne","2" : "Book Of This Author","3" : "Any book written by this author" }, { "0" : "4", "1" : "Sarah Williams","2" : "Book Of This Author","3" : "Any book written by this author" }, { "0" : "5", "1" : "Barack Obama","2" : "Book Of This Author","3" : "Any book written by this author" }, { "0" : "6", "1" : "Robert Louis Stevenson","2" : "Book Of This Author","3" : "Any book written by this author" }, { "0" : "7", "1" : "Aristotle","2" : "Book Of This Author","3" : "Any book written by this author" }, { "0" : "8", "1" : "Edgar Rice Burroughs","2" : "Book Of This Author","3" : "Any book written by this author" }, { "0" : "9", "1" : "Franz Kafka","2" : "Book Of This Author","3" : "Any book written by this author" }, { "0" : "10", "1" : "Franz Kafka","2" : "Book Of This Author","3" : "Any book written by this author" }]';
+
+/* UNCOMPRESSED JSON
+------------------------------------------------------------
+data = '[
+    {
+        "0" : "1", 
+        "1" : "William Shakespeare",
+        "2" : "Book Of This Author",
+        "3" : "Any book written by this author",
+    },
+    {
+        "0" : "2", 
+        "1" : "Leo Tolstoy",
+        "2" : "Book Of This Author",
+        "3" : "Any book written by this author",
+    },
+    {
+        "0" : "3", 
+        "1" : "John Donne",
+        "2" : "Book Of This Author",
+        "3" : "Any book written by this author",
+    },
+    {
+        "0" : "4", 
+        "1" : "Sarah Williams",
+        "2" : "Book Of This Author",
+        "3" : "Any book written by this author",
+    },
+    {
+        "0" : "5", 
+        "1" : "Barack Obama",
+        "2" : "Book Of This Author",
+        "3" : "Any book written by this author",
+    },
+    {
+        "0" : "6", 
+        "1" : "Robert Louis Stevenson",
+        "2" : "Book Of This Author",
+        "3" : "Any book written by this author",
+    },
+    {
+        "0" : "7", 
+        "1" : "Aristotle",
+        "2" : "Book Of This Author",
+        "3" : "Any book written by this author",
+    },
+    {
+        "0" : "8", 
+        "1" : "Edgar Rice Burroughs",
+        "2" : "Book Of This Author",
+        "3" : "Any book written by this author",
+    },
+    {
+        "0" : "9", 
+        "1" : "Franz Kafka",
+        "2" : "Book Of This Author",
+        "3" : "Any book written by this author",
+    },
+    {
+        "0" : "10", 
+        "1" : "Franz Kafka",
+        "2" : "Book Of This Author",
+        "3" : "Any book written by this author",
+    }
+]';
+*/

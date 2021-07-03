@@ -1,0 +1,67 @@
+data = '[{ "id" : "1", "author" : "William Shakespeare","project" : "Book Of This Author","description" : "Any book written by this author" }, { "id" : "2", "author" : "Leo Tolstoy","project" : "Book Of This Author","description" : "Any book written by this author" }, { "id" : "3", "author" : "John Donne","project" : "Book Of This Author","description" : "Any book written by this author" }, { "id" : "4", "author" : "Sarah Williams","project" : "Book Of This Author","description" : "Any book written by this author" }, { "id" : "5", "author" : "Barack Obama","project" : "Book Of This Author","description" : "Any book written by this author" }, { "id" : "6", "author" : "Robert Louis Stevenson","project" : "Book Of This Author","description" : "Any book written by this author" }, { "id" : "7", "author" : "Aristotle","project" : "Book Of This Author","description" : "Any book written by this author" }, { "id" : "8", "author" : "Edgar Rice Burroughs","project" : "Book Of This Author","description" : "Any book written by this author" }, { "id" : "9", "author" : "Franz Kafka","project" : "Book Of This Author","description" : "Any book written by this author" }, { "id" : "10", "author" : "Franz Kafka","project" : "Book Of This Author","description" : "Any book written by this author" }]';
+
+/* UNCOMPRESSED JSON
+------------------------------------------------------------
+data = '[
+    {
+        "id" : "1", 
+        "author" : "William Shakespeare",
+        "project" : "Book Of This Author",
+        "description" : "Any book written by this author",
+    },
+    {
+        "id" : "2", 
+        "author" : "Leo Tolstoy",
+        "project" : "Book Of This Author",
+        "description" : "Any book written by this author",
+    },
+    {
+        "id" : "3", 
+        "author" : "John Donne",
+        "project" : "Book Of This Author",
+        "description" : "Any book written by this author",
+    },
+    {
+        "id" : "4", 
+        "author" : "Sarah Williams",
+        "project" : "Book Of This Author",
+        "description" : "Any book written by this author",
+    },
+    {
+        "id" : "5", 
+        "author" : "Barack Obama",
+        "project" : "Book Of This Author",
+        "description" : "Any book written by this author",
+    },
+    {
+        "id" : "6", 
+        "author" : "Robert Louis Stevenson",
+        "project" : "Book Of This Author",
+        "description" : "Any book written by this author",
+    },
+    {
+        "id" : "7", 
+        "author" : "Aristotle",
+        "project" : "Book Of This Author",
+        "description" : "Any book written by this author",
+    },
+    {
+        "id" : "8", 
+        "author" : "Edgar Rice Burroughs",
+        "project" : "Book Of This Author",
+        "description" : "Any book written by this author",
+    },
+    {
+        "id" : "9", 
+        "author" : "Franz Kafka",
+        "project" : "Book Of This Author",
+        "description" : "Any book written by this author",
+    },
+    {
+        "id" : "10", 
+        "author" : "Franz Kafka",
+        "project" : "Book Of This Author",
+        "description" : "Any book written by this author",
+    }
+]';
+*/
